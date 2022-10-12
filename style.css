@@ -1,0 +1,68 @@
+* {
+  margin: none;
+}
+.container {
+  width: 100px;
+}
+@font-face {
+  src: url("../Xm/font/SutonnyMJ\ Regular.woff") format("woff"),
+    url("../Xm/font/SutonnyMJ\ Regular.ttf") format("truetype");
+  font-family: "sutoni";
+}
+
+.box-1 {
+  height: wrap-content;
+}
+.box-1 p {
+  font-family: "sutoni";
+  font-size: 12px;
+  font-weight: 500;
+}
+.box-1 span {
+  font-weight: bold;
+}
+.box-2 {
+  height: wrap-content;
+}
+.box-3 {
+  height: wrap-content;
+  width: 400px;
+}
+.box-3 img {
+  width: 100%;
+  height: 230px;
+}
+.box-3 {
+  font-size: 12px;
+}
+.box-4 {
+  height: fit-content;
+}
+.box-4 {
+  font-size: 12px;
+}
+.tiger {
+  height: wrap-content;
+}
+.tiger img {
+  height: 500px;
+  width: 100%;
+}
+.tiger p {
+  font-size: 12px;
+}
+.container {
+  margin-top: 20px;
+}
+h1 {
+  font-family: "sutoni";
+}
+.b-4-lower {
+  padding: 5px;
+  margin-top: 58px;
+  background-color: bisque;
+}
+.jene {
+  background: burlywood;
+  padding: 5px;
+}
